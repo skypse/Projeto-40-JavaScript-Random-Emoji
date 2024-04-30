@@ -1,6 +1,6 @@
 # 🎭 Random Emoji
 
-
+https://github.com/skypse/Projeto-40-JavaScript-Random-Emoji/assets/97822775/e690fda5-4189-4f2a-a418-0ea49aed872d
 
 O "Random Emoji" é uma aplicação simples que gera emojis aleatórios ao clicar em um botão.
 
